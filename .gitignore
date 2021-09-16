@@ -113,5 +113,7 @@ iOSInjectionProject/
 
 # End of https://www.toptal.com/developers/gitignore/api/swift,xcode,cocoapods
 
-#Delete 
+#Delete Ds_Store 
 *.DS_Store
+
+.gitmessage.txt
